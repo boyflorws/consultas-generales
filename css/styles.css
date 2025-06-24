@@ -1,0 +1,57 @@
+/* Estilo general para el contenedor de la cuadrícula */
+.grid {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr); /* Una columna por defecto */
+    gap: 16px; /* Espacio entre los módulos */
+}
+
+/* Estilos responsivos */
+@media (min-width: 640px) { /* Pantallas pequeñas */
+    .grid {
+        grid-template-columns: repeat(2, 1fr); /* Dos columnas */
+    }
+}
+
+@media (min-width: 768px) { /* Pantallas medianas */
+    .grid {
+        grid-template-columns: repeat(3, 1fr); /* Tres columnas */
+    }
+}
+
+/* Estilo para cada módulo */
+.module {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #1f2937; /* Color de fondo */
+    border-radius: 12px; /* Bordes redondeados */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Sombra */
+    padding: 16px; /* Relleno interno */
+    text-decoration: none; /* Sin subrayado */
+    color: white; /* Color de texto */
+    transition: background-color 0.3s, transform 0.3s; /* Transiciones suaves */
+    height: 100%; /* Asegúrate de que ocupe el espacio disponible */
+}
+
+/* Efecto al pasar el mouse */
+.module:hover {
+    background-color: #374151; /* Color de fondo al pasar el mouse */
+    transform: scale(1.05); /* Efecto de escala */
+}
+
+/* Estilos adicionales para los íconos y texto */
+.module svg {
+    margin-bottom: 8px; /* Espacio entre el ícono y el texto */
+}
+
+.module span {
+    font-size: 1rem; /* Tamaño de fuente base */
+}
+
+/* Ajustes para tamaños de texto responsivos */
+@media (min-width: 640px) {
+    .module span {
+        font-size: 1.125rem; /* Tamaño de fuente para pantallas más grandes */
+    }
+}

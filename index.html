@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <meta name="description" content="Consultas sobre el proceso de admisión, entrevista y más.">
+    <meta name="keywords" content="Consultas, Admisión, Entrevista, Sede Juliaca">
+    <title>Consultas de Admisión</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet" />
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: scale(0.95);
+            }
+
+            to {
+                opacity: 1;
+                transform: scale(1);
+            }
+        }
+
+        .animate-fadeIn {
+            animation: fadeIn 0.3s ease forwards;
+        }
+
+        /* Nuevo estilo para el botón de consultas */
+        .btn-consultas {
+            background: linear-gradient(135deg, #3498db 0%, #1a5d8f 100%);
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.08);
+            transition: all 0.3s ease;
+        }
+
+        .btn-consultas:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.2), 0 4px 6px -2px rgba(0, 0, 0, 0.1);
+        }
+
+        /* Estilo para los íconos de consulta */
+        .btn-consultas svg {
+            transition: all 0.3s ease;
+        }
+
+        .btn-consultas:hover svg {
+            transform: scale(1.1);
+        }
+    </style>
+</head>
+
+<body class="bg-gray-900 text-white min-h-screen flex flex-col">
+
+    <!-- Header con logo -->
+    <header class="flex-shrink-0">
+        <nav class="container mx-auto px-4 py-6 flex justify-center">
+            <img src="img/logo.png" alt="Logo de la Empresa"
+                class="w-24 sm:w-32 md:w-40 lg:w-48 h-auto transition-all duration-300" />
+        </nav>
+    </header>
+
+    <!-- Contenido principal -->
+    <main class="flex-grow container mx-auto px-4 flex flex-col items-center text-center space-y-6 pb-24">
+
+        <!-- Títulos -->
+        <div class="space-y-2">
+            <h1 class="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold tracking-tight">
+                Consultas Disponibles de Admisión
+            </h1>
+            <h2 class="text-lg sm:text-xl md:text-2xl font-semibold text-blue-500">
+                SEDE JULIACA
+            </h2>
+        </div>
+
+        <!-- Grid dinámico: auto-ajusta columnas y centra módulos -->
+        <div class="w-full grid grid-cols-[repeat(auto-fit,minmax(200px,1fr))] gap-6 justify-items-center">
+            <!-- Módulo 1 -->
+            <a href="front/citas.html"
+                class="flex flex-col items-center justify-center bg-gray-800 hover:bg-gray-700 transform hover:scale-105 transition p-4 sm:p-6 rounded-2xl shadow-lg">
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8 sm:h-10 sm:w-10 text-indigo-400 mb-2"
+                    fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                        d="M7 8h10M7 12h4m1 8a9 9 0 100-18 9 9 0 000 18zm-3-4h6m-6-4h6" />
+                </svg>
+                <span class="text-sm sm:text-base font-medium">Consulta tu Entrevista</span>
+            </a>
+        </div>
+
+    </main>
+
+    <!-- Nueva sección de otras consultas - MEJORADA -->
+    <div class="bg-gradient-to-br from-gray-800 to-gray-900 p-6 rounded-t-lg shadow-xl border-t-4 border-blue-500 relative"
+        id="consultas">
+        <div class="absolute top-4 right-4 text-blue-400">
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8" fill="none" viewBox="0 0 24 24"
+                stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                    d="M8.228 9c.549-1.165 2.03-2 3.772-2 2.21 0 4 1.343 4 3 0 1.4-1.278 2.575-3.006 2.907-.542.104-.994.54-.994 1.093m0 0h-2m2 0h-2m0 0H9m8 0a9 9 0 11-18 0 9 9 0 0118 0z" />
+            </svg>
+        </div>
+
+        <h3 class="text-xl sm:text-2xl font-bold mb-3 text-blue-400">¿Tienes más preguntas?</h3>
+        <p class="text-sm sm:text-base mb-4 max-w-2xl mx-auto">
+            Si tienes consultas sobre carreras profesionales o informes adicionales, no dudes en contactarnos. Estamos aquí para ayudarte a tomar la mejor decisión.
+        </p>
+        
+        <!-- Botón mejorado -->
+        <a href="front/mas_consultas.html"
+            class="btn-consultas mt-2 inline-block text-white font-semibold py-3 px-6 rounded-full transition-transform">
+            Ver Otras Consultas
+            <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 inline-block ml-2" fill="none" viewBox="0 0 24 24"
+                stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+            </svg>
+        </a>
+    </div>
+
+    <!-- Modal de aviso -->
+    <div id="alerta"
+        class="fixed inset-0 bg-black bg-opacity-70 flex items-center justify-center z-50 px-4 py-6 animate-fadeIn hidden">
+        <div class="relative bg-yellow-50 text-yellow-900 rounded-2xl border-2 border-yellow-400 shadow-2xl 
+                p-4 sm:p-6 lg:p-8 max-w-sm sm:max-w-md w-full">
+            <button aria-label="Cerrar aviso"
+                class="absolute top-3 right-3 text-yellow-900 hover:text-red-600 text-2xl sm:text-3xl font-bold"
+                onclick="document.getElementById('alerta').classList.add('hidden')">&times;</button>
+            <div class="flex flex-col items-center space-y-4 text-center">
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-12 w-12 sm:h-16 sm:w-16 text-yellow-600" fill="none"
+                    viewBox="0 0 24 24" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                        d="M13 16h-1v-4h-1m0-4h.01M12 2a10 10 0 100 20 10 10 0 000-20z" />
+                </svg>
+                <h2 class="text-lg sm:text-xl font-bold text-yellow-800">📢 Aviso Importante</h2>
+                <p class="text-sm sm:text-base leading-relaxed">
+                    Nuestro próximo <span class="font-bold underline">Examen de Simulacro</span> está programado para el
+                    <span class="text-red-600 font-bold">22 de Junio</span>.
+                </p>
+                <div class="bg-yellow-300 p-3 sm:p-4 rounded-lg shadow-inner w-full">
+                    <p class="font-semibold mb-1">Consulta o resuelve tus dudas a:</p>
+                    <ul class="space-y-1 text-sm">
+                        <li>📞 991-126-082</li>
+                        <li>📞 951-301-916</li>
+                    </ul>
+                </div>
+                <p class="text-xs sm:text-sm text-gray-700 italic">Recuerda estar siempre pendiente de los comunicados oficiales.</p>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Mostrar siempre el modal al cargar -->
+    <script>
+        document.addEventListener("DOMContentLoaded", () => {
+            document.getElementById('alerta')?.classList.remove('hidden');
+            
+            const soporteBoton = document.getElementById('soporteBoton');
+            const consultasSection = document.getElementById('consultas');
+
+            // Mostrar el botón de soporte si no está en la sección de consultas al cargar
+            const rect = consultasSection.getBoundingClientRect();
+            if (rect.top > window.innerHeight || rect.bottom < 0) {
+                soporteBoton.classList.remove('opacity-0', 'pointer-events-none');
+            }
+
+            window.addEventListener('scroll', () => {
+                const rect = consultasSection.getBoundingClientRect();
+                if (rect.top <= window.innerHeight && rect.bottom >= 0) {
+                    soporteBoton.classList.add('opacity-0', 'pointer-events-none');
+                } else {
+                    soporteBoton.classList.remove('opacity-0', 'pointer-events-none');
+                }
+            });
+        });
+    </script>
+
+    <!-- Botón flotante - MEJORADO con transición suave -->
+    <div class="fixed bottom-6 right-6 z-50 transition-all duration-300" id="soporteBoton">
+        <div class="relative group">
+            <button onclick="abrirModal()"
+                class="bg-green-500 hover:bg-green-600 text-white px-4 py-3 rounded-full shadow-lg flex items-center space-x-2 transition-all duration-300 hover:scale-105 animate-bounce z-50">
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" viewBox="0 0 32 32" fill="currentColor">
+                    <path d="M16 0C7.164 0 0 7.164 0 16c0 2.822.735 5.465 2.017 7.779L0 32l8.586-2.25A15.906 15.906 0 0 0 16 32c8.836 0 16-7.164 16-16S24.836 0 16 0zm0 29.411c-2.666 0-5.188-.765-7.34-2.087l-.524-.32-5.098 1.336 1.364-4.968-.34-.541C3.933 20.595 3.294 18.349 3.294 16c0-6.995 5.711-12.706 12.706-12.706 6.995 0 12.706 5.711 12.706 12.706S22.995 29.411 16 29.411zm7.302-9.248c-.412-.206-2.437-1.202-2.815-1.34-.378-.137-.653-.206-.928.206s-1.063 1.34-1.303 1.617c-.24.275-.48.31-.893.103-.412-.206-1.741-.64-3.316-2.04-1.226-1.093-2.054-2.44-2.295-2.854-.24-.412-.026-.635.18-.84.184-.184.412-.48.618-.72.206-.24.275-.412.412-.687.137-.275.069-.516-.034-.72-.103-.206-.928-2.238-1.27-3.054-.334-.794-.675-.687-.928-.687-.24 0-.516-.034-.792-.034s-.72.103-1.1.516c-.378.412-1.44 1.406-1.44 3.426 0 2.02 1.476 3.975 1.68 4.25.206.275 2.902 4.427 7.038 6.06 4.135 1.633 4.135 1.09 4.878 1.026.743-.069 2.437-.995 2.78-1.953.343-.96.343-1.78.24-1.953-.103-.172-.378-.275-.79-.48z"/>
+                </svg>
+                <span class="font-semibold">Chatea con Soporte TI</span>
+            </button>
+            <div class="absolute -top-2 -right-2 bg-red-500 text-white text-xs font-bold rounded-full w-6 h-6 flex items-center justify-center animate-ping opacity-75"></div>
+        </div>
+    </div>
+
+    <!-- Modal -->
+    <div id="modalConsulta" class="fixed inset-0 bg-black bg-opacity-60 flex items-center justify-center z-50 hidden px-4">
+        <div class="bg-white p-8 rounded-2xl shadow-lg w-full max-w-md relative animate-fadeIn flex flex-col space-y-4">
+            <button onclick="cerrarModal()" class="absolute top-3 right-3 text-red-600 text-2xl font-bold hover:text-red-800">&times;</button>
+
+            <h1 class="text-2xl font-bold text-center text-green-600 mb-4">Consulta por WhatsApp</h1>
+
+            <div class="space-y-4 w-full">
+                <input id="nombres" type="text" placeholder="Nombres completos"
+                    class="w-full p-3 rounded-lg border border-gray-300 focus:outline-none focus:ring-2 focus:ring-green-500 text-black">
+
+                <input id="dni" type="text" placeholder="DNI"
+                    class="w-full p-3 rounded-lg border border-gray-300 focus:outline-none focus:ring-2 focus:ring-green-500 text-black">
+
+                <input id="carrera" type="text" placeholder="Carrera profesional"
+                    class="w-full p-3 rounded-lg border border-gray-300 focus:outline-none focus:ring-2 focus:ring-green-500 text-black">
+
+                <textarea id="consulta" placeholder="Escribe tu consulta aquí"
+                    class="w-full p-3 rounded-lg border border-gray-300 focus:outline-none focus:ring-2 focus:ring-green-500 text-black"></textarea>
+
+                <button id="btnEnviar" onclick="enviarWhatsApp()"
+                    class="w-full bg-green-500 hover:bg-green-600 text-white p-3 rounded-lg font-semibold transition-transform hover:scale-105 flex justify-center items-center space-x-2">
+                    <span>Enviar a WhatsApp</span>
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function abrirModal() {
+            document.getElementById('modalConsulta').classList.remove('hidden');
+        }
+
+        function cerrarModal() {
+            document.getElementById('modalConsulta').classList.add('hidden');
+        }
+
+        function enviarWhatsApp() {
+            const nombres = document.getElementById('nombres').value.trim();
+            const dni = document.getElementById('dni').value.trim();
+            const carrera = document.getElementById('carrera').value.trim();
+            const consulta = document.getElementById('consulta').value.trim();
+            const boton = document.getElementById('btnEnviar');
+
+            if (!nombres || !dni || !carrera || !consulta) {
+                alert('Por favor, completa todos los campos.');
+                return;
+            }
+
+            boton.disabled = true;
+            boton.innerHTML = `
+                <svg class="animate-spin h-5 w-5 mr-2 text-white" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+                    <circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
+                    <path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8v8z"></path>
+                </svg>
+                Enviando...
+            `;
+
+            const mensaje = `Hola, tengo una consulta sobre mi cita psicológica.\n\nMis datos son:\n📝 Nombres completos: ${nombres}\n🆔 DNI: ${dni}\n🎓 Carrera profesional: ${carrera}\n💬 Mi consulta es: ${consulta}`;
+            const url = `https://wa.me/51991126082?text=${encodeURIComponent(mensaje)}`;
+
+            window.open(url, '_blank');
+
+            setTimeout(() => {
+                boton.disabled = false;
+                boton.innerHTML = '<span>Enviar a WhatsApp</span>';
+                document.getElementById('nombres').value = '';
+                document.getElementById('dni').value = '';
+                document.getElementById('carrera').value = '';
+                document.getElementById('consulta').value = '';
+            }, 1000);
+        }
+    </script>
+
+</body>
+
+</html>

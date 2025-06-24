@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Consulta de Cita Psicológica</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet" />
+  <script src="../libs/papaparse.min.js"></script>
+  <script src="../js/citas.js" defer></script>
+
+  <style>
+    body {
+      font-family: 'Inter', sans-serif;
+    }
+
+    .zoom-container img {
+      display: block;
+      max-width: 100%;
+      height: auto;
+      cursor: grab;
+      user-select: none;
+    }
+
+    @keyframes fadeIn {
+      from {
+        opacity: 0;
+        transform: scale(0.95);
+      }
+
+      to {
+        opacity: 1;
+        transform: scale(1);
+      }
+    }
+
+    .animate-fadeIn {
+      animation: fadeIn 0.3s ease forwards;
+    }
+  </style>
+</head>
+
+<body class="bg-gray-900 text-white min-h-screen flex items-center justify-center px-4">
+
+  <div class="bg-gray-800/60 backdrop-blur-sm shadow-xl rounded-2xl p-6 sm:p-8 w-full max-w-lg text-center">
+
+    <!-- Botón Regresar y Ver Mapa alineados -->
+    <div class="mb-6 flex justify-between items-center">
+      <a href="../index.html"
+        class="inline-flex items-center text-indigo-400 hover:text-indigo-300 font-semibold transition duration-300">
+        <svg class="h-5 w-5 mr-2" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" d="M15 19l-7-7 7-7" />
+        </svg>
+        Regresar
+      </a>
+
+      <!-- Botón Ver Mapa Mejorado -->
+      <button
+        class="inline-flex items-center px-4 py-2 bg-gradient-to-r from-indigo-600 to-purple-600 hover:from-purple-500 hover:to-indigo-500 rounded-xl text-white font-semibold transition transform hover:scale-105 active:scale-95 focus:outline-none focus:ring-4 focus:ring-purple-400 animate-pulse"
+        onclick="document.getElementById('modalImagen').classList.remove('hidden')">
+        <svg class="h-6 w-6 mr-2" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round"
+            d="M9 20l-5.447-2.724A2 2 0 013 15.382V5a2 2 0 012-2h14a2 2 0 012 2v10.382a2 2 0 01-0.553 1.894L15 20l-3-1.5L9 20z" />
+          <path stroke-linecap="round" stroke-linejoin="round"
+            d="M16 8a4 4 0 11-8 0 4 4 0 018 0z" />
+        </svg>
+        Ver Mapa
+      </button>
+    </div>
+
+    <!-- Modal para visualizar imagen -->
+    <div id="modalImagen"
+      class="fixed inset-0 bg-gradient-to-br from-black via-black/80 to-black/90 flex items-center justify-center z-50 hidden animate-fadeIn">
+      <div
+        class="relative max-w-4xl w-11/12 p-4 sm:p-6 bg-gray-900 bg-opacity-90 rounded-3xl shadow-2xl transform transition-transform duration-300 hover:scale-105">
+
+        <!-- Botón cerrar modal -->
+        <button aria-label="Cerrar imagen"
+          class="absolute top-3 right-3 text-white hover:text-red-400 font-extrabold text-4xl leading-none z-50 transition-colors duration-200"
+          onclick="document.getElementById('modalImagen').classList.add('hidden')">
+          &times;
+        </button>
+
+        <!-- Botón de descarga -->
+        <a href="../img/mapa.png" download="Mapa de referencia"
+          class="absolute top-3 left-3 bg-green-500 hover:bg-green-600 text-white p-2 rounded-full transition shadow-lg"
+          title="Descargar Mapa">
+          <svg class="h-6 w-6" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round"
+              d="M4 16v2a2 2 0 002 2h12a2 2 0 002-2v-2M7 10l5 5 5-5M12 15V3" />
+          </svg>
+        </a>
+
+        <!-- Imagen con scroll y zoom -->
+        <div id="zoomContainer" class="zoom-container overflow-hidden cursor-grab">
+          <img id="mapaImagen" src="../img/mapa.png" alt="Mapa de referencia"
+            class="rounded-2xl shadow-xl max-h-[80vh] w-auto mx-auto select-none" />
+        </div>
+
+      </div>
+    </div>
+
+    <!-- Título -->
+    <h1 class="text-3xl font-bold mb-6 text-indigo-400">Consulta tu Cita Psicológica</h1>
+
+    <!-- Input DNI -->
+    <input type="text" id="dniInput" placeholder="Ingrese su DNI"
+      class="w-full px-5 py-3 rounded-xl text-black mb-4 focus:outline-none focus:ring-2 focus:ring-indigo-400 placeholder-gray-500" />
+
+    <!-- Botón Buscar -->
+    <button onclick="buscarCita()"
+      class="w-full bg-indigo-500 hover:bg-indigo-600 text-white px-6 py-3 rounded-xl transition-all duration-300 font-semibold">
+      Buscar
+    </button>
+
+    <!-- Resultado -->
+    <div id="resultado" class="mt-6 text-left text-sm">
+      <!-- Aquí se mostrarán los resultados -->
+    </div>
+
+  </div>
+
+  <!-- Script para zoom y arrastre -->
+  <script>
+    const zoomContainer = document.getElementById('zoomContainer');
+    const mapaImagen = document.getElementById('mapaImagen');
+
+    let scale = 1;
+    let isDragging = false;
+    let startX = 0, startY = 0;
+    let currentX = 0, currentY = 0;
+
+    mapaImagen.addEventListener('mousedown', (e) => {
+      isDragging = true;
+      startX = e.clientX - currentX;
+      startY = e.clientY - currentY;
+      zoomContainer.style.cursor = 'grabbing';
+    });
+
+    zoomContainer.addEventListener('mousemove', (e) => {
+      if (isDragging) {
+        currentX = e.clientX - startX;
+        currentY = e.clientY - startY;
+        mapaImagen.style.transform = `translate(${currentX}px, ${currentY}px) scale(${scale})`;
+      }
+    });
+
+    window.addEventListener('mouseup', () => {
+      isDragging = false;
+      zoomContainer.style.cursor = 'grab';
+    });
+
+    zoomContainer.addEventListener('mouseleave', () => {
+      isDragging = false;
+      zoomContainer.style.cursor = 'grab';
+    });
+
+    zoomContainer.addEventListener('wheel', (e) => {
+      e.preventDefault();
+      const zoomFactor = 0.1;
+      if (e.deltaY < 0) {
+        scale += zoomFactor;
+      } else {
+        scale = Math.max(1, scale - zoomFactor);
+      }
+      mapaImagen.style.transform = `translate(${currentX}px, ${currentY}px) scale(${scale})`;
+    });
+  </script>
+
+</body>
+
+</html>

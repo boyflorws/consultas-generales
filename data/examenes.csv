@@ -1,0 +1,529 @@
+﻿nombre;dni;carrera;lugar;edificio;fecha;hora
+José Raúl Amanqui;1;Ing. Sistemas;Lab 01;Pabellon A;12/09/2025;14:00
+Cuno Vilca Nhick Jhonnir;73807517;Psicología;Lab 02;Pabellon D;13/09/2025;15:00
+Apaza Mamani Jenie Abigail;75884732;Enfermeria;Lab 03;Pabellon G;14/09/2025;16:00
+Mamani Cosi Yeferson Teves;75522992;Enfermeria;Lab 04;Pabellon H;15/09/2025;17:00
+Motte Urajahua Rohanguiel Edison;60228819;Psicología;Lab 05;Pabellon I;16/09/2025;18:00
+Añari Ticona Telesforo Jesus;76161950;Enfermeria;Lab 06;Pabellon J;17/09/2025;19:00
+PILA BASQUEZ YOFORSAY EDER;70809646;Enfermeria;Lab 07;Pabellon A;18/09/2025;20:00
+MAMANI CARRIZALES FLORCITA;77342066;Enfermeria;Lab 08;Pabellon C;19/09/2025;21:00
+Luque Condori Yamilet Milagros;75193262;Psicología;Lab 09;Pabellon B;20/09/2025;20:00
+AQUINO MAMANI YAKI MADELEIN;75797824;Psicología;Lab 01;Pabellon A;21/09/2025;14:00
+CAYRA JOVE NELSON WILFREDO;72884471;Psicología;Lab 02;Pabellon D;22/09/2025;15:00
+VELASQUEZ COLCA BEATRIZ;60069064;Enfermeria;Lab 03;Pabellon G;23/09/2025;16:00
+Espetia Nina Saray;74705707;Nutrición;Lab 04;Pabellon H;24/09/2025;17:00
+QUISPE CONDORI MILAGROS MADELEYNE;61193025;Enfermeria;Lab 05;Pabellon I;25/09/2025;18:00
+VIZA BELLIDO ANYELI YAMILETH;61001261;Enfermeria;Lab 06;Pabellon J;26/09/2025;19:00
+CHURA GALDOS RODRIGO ELOY;61320652;Enfermeria;Lab 07;Pabellon A;27/09/2025;20:00
+PAUCAR FLORES YHOSELIN;60850639;Enfermeria;Lab 08;Pabellon C;28/09/2025;21:00
+DE LA TORRE LATORRE KIARA ROSA;73393999;Psicología;Lab 09;Pabellon B;29/09/2025;20:00
+TIPO JACHO JHANDDY ANAY;60065619;Enfermeria;Lab 01;Pabellon A;30/09/2025;14:00
+Amanqui Ramos Luz Milagros;77538099;Enfermeria;Lab 02;Pabellon D;12/09/2025;15:00
+PINO PACCORI JHOANA DEL PILAR;61000985;Enfermeria;Lab 03;Pabellon G;13/09/2025;16:00
+CHALCO CONDORI LUIS FERNANDO;71568511;Enfermeria;Lab 04;Pabellon H;14/09/2025;17:00
+CHAMBI HUANCCO YOSEPH GRIMALDO;61254832;enfermeria;Lab 05;Pabellon I;15/09/2025;18:00
+CHURA QUISPE ÑOLL ERICK;73762257;Enfermeria;Lab 06;Pabellon J;16/09/2025;19:00
+Salas Perez Adriano Kaleb;77475464;Enfermeria;Lab 07;Pabellon A;17/09/2025;20:00
+LUQUE SORIA BRAD ARNOLD;74095608;Psicología;Lab 08;Pabellon C;18/09/2025;21:00
+QUISPE MAMANI ANAHI DANITZA;77378260;Psicología;Lab 09;Pabellon A;19/09/2025;20:00
+CHAMBI SALAS ZEYDA LISBET;75694332;Psicología;Lab 01;Pabellon D;20/09/2025;14:00
+VARGAS MAMANI CAMILA;60169907;Enfermeria;Lab 02;Pabellon G;21/09/2025;15:00
+QUISPE URRUTIA DANIELA ALIZEE;60983328;Enfermeria;Lab 03;Pabellon H;22/09/2025;16:00
+RAMIREZ MENOR GEINER ALEXANDER;73986718;Enfermeria;Lab 04;Pabellon I;23/09/2025;17:00
+MUSAJA TICONA LIZZET JOSSIE;75434740;Psicología;Lab 05;Pabellon J;24/09/2025;18:00
+MAMANI TAPARA RUTH RUBI;61047074;Enfermeria;Lab 06;Pabellon A;25/09/2025;19:00
+APAZA JACHO RUBEN YONATAN;74214332;Enfermeria;Lab 07;Pabellon C;26/09/2025;20:00
+Chipana Ñahuinlla Sarai Angheline;61091844;Enfermeria;Lab 08;Pabellon B;27/09/2025;21:00
+Colque Chacon kylla Annet;71189607;Psicología;Lab 09;Pabellon A;28/09/2025;20:00
+PINTADO VARGAS SANDI LISEHT;61806101;Enfermeria;Lab 01;Pabellon D;29/09/2025;14:00
+Onque Jallo Jamilet anyeles;71060227;Enfermeria;Lab 02;Pabellon G;30/09/2025;15:00
+CORDOVA TORREJON RAQUEL DEL PILAR;60510020;Enfermeria;Lab 03;Pabellon H;12/09/2025;16:00
+Arratia Soto Bill Aldair;73475809;Enfermeria;Lab 04;Pabellon I;13/09/2025;17:00
+CHARCA CHARCA SHEYLA EVELYN;60518497;Enfermeria;Lab 05;Pabellon J;14/09/2025;18:00
+Roque Chambi Edson Daniel;78550167;Psicología;Lab 06;Pabellon A;15/09/2025;14:00
+TICONA MAMANI JOSUE ALEXANDER VINCENZO;60940762;Enfermeria;Lab 07;Pabellon C;16/09/2025;15:00
+Yana Canaza Lesly Wendy;61158853;Psicología;Lab 08;Pabellon B;17/09/2025;16:00
+Labajos Pinedo Weysles;60030926;Psicología;Lab 09;Pabellon A;18/09/2025;17:00
+Charca Ramos Leydi Rayza;61159106;Psicología;Lab 01;Pabellon D;19/09/2025;18:00
+NINA RAMOS ADERLY;60292906;Psicología;Lab 02;Pabellon A;20/09/2025;19:00
+Paco Mamani Manuel Alejandro Illari;61094249;Nutrición;Lab 03;Pabellon D;21/09/2025;20:00
+PIZARRO TAFUR STALIN;60031596;Enfermeria;Lab 04;Pabellon G;22/09/2025;21:00
+PANCCA MIRANDA VICTOR ROBINHO;61094026;Psicología;Lab 05;Pabellon H;23/09/2025;20:00
+Chura Aruhuanca Israel Jaime;61152804;Psicología;Lab 06;Pabellon I;24/09/2025;14:00
+QUISOCALA RAMOS WILLIAM;61000428;Psicología;Lab 07;Pabellon J;25/09/2025;15:00
+CONDORI CRUZ JHON GILBER;73763972;Psicología;Lab 08;Pabellon A;26/09/2025;16:00
+Uturunco Zea Kenyer Rodrigo;61158689;Psicología;Lab 09;Pabellon C;27/09/2025;17:00
+Ticona Lipe Estefany Eliana;73298874;Enfermeria;Lab 01;Pabellon B;28/09/2025;18:00
+Calapuja Calcina KATERINE SHANTAL;60472286;Enfermeria;Lab 02;Pabellon A;29/09/2025;19:00
+DIAZ SANCHEZ JOSUE EDILBERTO;78372458;Enfermeria;Lab 03;Pabellon D;30/09/2025;20:00
+Gonzalo Apaza Anyely Fiorela;60836727;Psicología;Lab 04;Pabellon G;12/09/2025;21:00
+ASQUI LAYME EDY SANTIAGO;60837383;Enfermeria;Lab 05;Pabellon H;13/09/2025;20:00
+LEONARDO ENRIQUEZ RUBINHO JESUS;61090420;Enfermeria;Lab 06;Pabellon I;14/09/2025;14:00
+CONDORI QUISOCALA KEVIN JHEAMPOOL;77126506;Psicología;Lab 07;Pabellon J;15/09/2025;15:00
+Condori Cheje Yamilet Nicole;75476072;Psicología;Lab 08;Pabellon A;16/09/2025;14:00
+Canaza Vilca Luz Nayely;60067245;Ingeniería Civil;Lab 09;Pabellon C;17/09/2025;15:00
+YAPU YAPU LILIAN MARILU;60765159;Enfermeria;Lab 01;Pabellon B;18/09/2025;16:00
+CANAZA MAMANI CRISHLY MELANIA;60223793;Enfermeria;Lab 02;Pabellon A;19/09/2025;17:00
+PARICAHUA ZELA YEISON JOSSUE;76771532;Enfermeria;Lab 03;Pabellon D;20/09/2025;18:00
+Villca Mamani Willian brayhan;60195400;Ingeniería ambiental;Lab 04;Pabellon G;21/09/2025;19:00
+Bruna Quilla Andrea Mishel Analy;61320913;Psicología;Lab 05;Pabellon H;22/09/2025;20:00
+Puma Quispe Mishell Adela;61158679;Enfermeria;Lab 06;Pabellon I;23/09/2025;21:00
+MAMANI PILCO NEISSMY ENMENY;60224299;Psicología;Lab 07;Pabellon J;24/09/2025;20:00
+QUISPE YUCRA MAELY YESSENIA;60286414;Psicología;Lab 08;Pabellon A;25/09/2025;14:00
+CHURA CCACA ZAYURI YAMILE;61046991;Enfermeria;Lab 09;Pabellon C;26/09/2025;15:00
+VILCA LARICO CAMILA JAZMIN;71146558;Educación inicial y Puericultura;Lab 01;Pabellon A;27/09/2025;16:00
+Aro Coyla Edelmiro Josue;60538297;Psicología;Lab 02;Pabellon D;28/09/2025;17:00
+COAQUIRA NEYRA MILAGROS;61254689;Enfermeria;Lab 03;Pabellon A;29/09/2025;18:00
+Mamani Arapa Lizbeth;61093283;Ingeniería ambiental;Lab 04;Pabellon D;30/09/2025;19:00
+PAYEHUANCA OSNAYO JUDITH MIREYDY;61255527;Ingeniería Civil;Lab 05;Pabellon G;12/09/2025;20:00
+Mayta Vargas Yosep;60554039;Enfermeria;Lab 06;Pabellon H;13/09/2025;21:00
+CUTIPA BUSTINZA ANA MARIA;60758785;Psicología;Lab 07;Pabellon I;14/09/2025;20:00
+BELTRAN APAZA WILLIAMS EDUARDO;61001012;Educación Física, recreación y deportes;Lab 08;Pabellon J;15/09/2025;14:00
+RAMOS ARAPA MARILYN DANITZA;76587042;Ingeniería ambiental;Lab 09;Pabellon A;16/09/2025;15:00
+HUISA QUISPE YOSEP LENIN;60353828;Enfermeria;Lab 01;Pabellon C;17/09/2025;16:00
+HALLASI MANCHA MELANY WENDY;61320585;Arquitectura y Urbanismo;Lab 02;Pabellon B;18/09/2025;17:00
+CCORIMANYA TUPA LETSY;75758885;Educación Primaria y Pedagogía Terapeútica;Lab 03;Pabellon A;19/09/2025;18:00
+ZELA FRISANCHO GENYFER KEY;61001153;Enfermeria;Lab 04;Pabellon D;20/09/2025;19:00
+PACCO COTACALLAPA MARI LEIDY;60286951;Enfermeria;Lab 05;Pabellon G;21/09/2025;20:00
+LAURA QUISPE GRACE EMERY;71045940;Enfermeria;Lab 06;Pabellon H;22/09/2025;21:00
+PARICAHUA OJEDA YORD BRAYAN;75115296;Enfermeria;Lab 07;Pabellon I;23/09/2025;20:00
+MARIN MAMANI THALIA LUCERO;72308603;Psicología;Lab 08;Pabellon J;24/09/2025;14:00
+AYAMAMANI URDAY ADRIANA REYNA;76585310;Enfermeria;Lab 09;Pabellon A;25/09/2025;15:00
+CONDORI CALLA RUTH NELIDA;60067154;Enfermeria;Lab 01;Pabellon C;26/09/2025;16:00
+QUISPE PARI KELY ROXY;60178366;Psicología;Lab 02;Pabellon B;27/09/2025;17:00
+Cañazaca Choque Katerine Nadine;74179330;Psicología;Lab 03;Pabellon A;28/09/2025;18:00
+MAMANI BRADO DEYSSI JEMINA;60354367;Psicología;Lab 04;Pabellon D;29/09/2025;14:00
+Humpiri Mamani Yaquelin Milagros;60224707;Psicología;Lab 05;Pabellon A;30/09/2025;15:00
+Quispe Villazante Exon omar;60248317;Psicología;Lab 06;Pabellon D;12/09/2025;16:00
+RAMIREZ LUQUE ROY GUINNER;60204089;Enfermeria;Lab 07;Pabellon G;13/09/2025;17:00
+CALCINA SANCA ELIZABET;60589390;Enfermeria;Lab 08;Pabellon H;14/09/2025;18:00
+VELEZ PARICAHUA SWEN ERICSSON;61254864;Enfermeria;Lab 09;Pabellon I;15/09/2025;19:00
+PACORI YANA LUZ DELIA;77534355;Enfermeria;Lab 01;Pabellon J;16/09/2025;20:00
+MONTENEGRO ZAPANA DIANA MILAGROS;61254511;Enfermeria;Lab 02;Pabellon A;17/09/2025;21:00
+CONDORI CANAZA RONY FELICIANO;73741691;Enfermeria;Lab 03;Pabellon C;18/09/2025;20:00
+MAMANI VILCA EVELYN;60909598;Psicología;Lab 04;Pabellon B;19/09/2025;14:00
+MONTES AGUIRRE GIUSEPI YASIR DEL PIERO;74642996;Enfermeria;Lab 05;Pabellon A;20/09/2025;15:00
+Arosquipa Quispe Crysthian Brandon;74229003;Administración;Lab 06;Pabellon D;21/09/2025;16:00
+PALACO PARIAPAZA GREINS CAMILA;76471532;Enfermeria;Lab 07;Pabellon G;22/09/2025;17:00
+VILCA ZAPANA LUDY;72047802;Ingeniería Civil;Lab 08;Pabellon H;23/09/2025;18:00
+APAZA CONDORI REINER ELIO;61000772;Enfermeria;Lab 09;Pabellon I;24/09/2025;19:00
+RAMOS PARI ANHELY FIORELA;60234139;Psicología;Lab 01;Pabellon J;25/09/2025;20:00
+Quispe Rojas Fiorella;74659100;Ingeniería Civil;Lab 02;Pabellon A;26/09/2025;21:00
+MAMANI QUISPE MILAGROS GABY;60282318;Psicología;Lab 03;Pabellon C;27/09/2025;20:00
+YANAPA FLORES CRISTHIAN ABEL;60523180;Psicología;Lab 04;Pabellon A;28/09/2025;14:00
+TORRES QUISPE YAZMIN XIMENA;61093897;Ingeniería de sistemas;Lab 05;Pabellon D;29/09/2025;15:00
+CAYRA CHIPANA EMERY LINDA;60260799;Psicología;Lab 06;Pabellon G;30/09/2025;16:00
+CONDORI CHIARA CARLOS DANIEL;75237042;Psicología;Lab 07;Pabellon H;12/09/2025;17:00
+BENDITA QUEQUEJANA JHIMMY ANTHONY;61255218;Enfermeria;Lab 08;Pabellon I;13/09/2025;18:00
+QUILLA SABEDRA YAACK RONAL;60069374;Enfermeria;Lab 09;Pabellon J;14/09/2025;19:00
+CONDORI HANCCO DIANA YESENIA;73361486;Enfermeria;Lab 01;Pabellon A;15/09/2025;20:00
+Rodriguez Tupa Giuseppe Verdi;76980419;Enfermeria;Lab 02;Pabellon C;16/09/2025;21:00
+SANCHEZ MAMANI LILIANA ELIZABETH;72781332;Ingeniería Civil;Lab 03;Pabellon B;17/09/2025;20:00
+TOQUE YANAPA ROSSY ANAYELY;60256517;Enfermeria;Lab 04;Pabellon A;18/09/2025;14:00
+RIVERA NAVARRO KIYARA FANY;60272373;Administración;Lab 05;Pabellon D;19/09/2025;15:00
+QUISPE LIVISE MARYORI;71864730;Enfermeria;Lab 06;Pabellon G;20/09/2025;16:00
+HUAMAN MAMANI LEYDI PILAR;61046940;Educación inicial y Puericultura;Lab 07;Pabellon H;21/09/2025;17:00
+CANAZA APAZA KAREN ANGELICA;60256521;Enfermeria;Lab 08;Pabellon A;22/09/2025;18:00
+QUISPE APAZA ROSIO VANESA;61399896;Psicología;Lab 09;Pabellon D;23/09/2025;19:00
+QUISPE GRAJEDA JOHAN FABRICIO;72493704;Enfermeria;Lab 01;Pabellon G;24/09/2025;20:00
+ITO PELINCO JUDITH NATALY;60179713;Ingeniería ambiental;Lab 02;Pabellon H;25/09/2025;21:00
+CHAVEZ APAZA SADITH YOSELYN;61046872;Enfermeria;Lab 03;Pabellon I;26/09/2025;20:00
+FASABI SAUCEDO MACIELY NICOLE;60831938;Ingeniería Civil;Lab 04;Pabellon J;27/09/2025;14:00
+ZARATE TAPARA ROSSY ROSARIO;60303084;Psicología;Lab 05;Pabellon A;28/09/2025;15:00
+CANO PACORI MIGUEL ANGEL;60837446;Enfermeria;Lab 06;Pabellon C;29/09/2025;16:00
+Viza Echama Gisela Keiko;77505335;Enfermeria;Lab 07;Pabellon B;30/09/2025;17:00
+PACOMPIA PANCCA ALEX LIZANDRO;62101714;Psicología;Lab 08;Pabellon A;12/09/2025;18:00
+Quispe zapana Luz Brenda;61158632;Enfermeria;Lab 09;Pabellon D;13/09/2025;14:00
+VARGAS MENA KAREN LIZETH;73576053;Ingeniería Civil;Lab 01;Pabellon G;14/09/2025;15:00
+ZUÑIGA PARI MARIANELA;61093390;Psicología;Lab 02;Pabellon H;15/09/2025;16:00
+Garate Condori Liz Nayali;77689958;Psicología;Lab 03;Pabellon I;16/09/2025;17:00
+Lopez Naira Sheyla Melani;60208580;Educación Física, recreación y deportes;Lab 04;Pabellon J;17/09/2025;18:00
+MAMANI SONCCO JHIMI MEXTRIX;60231598;Psicología;Lab 05;Pabellon A;18/09/2025;19:00
+Quispe Vilca Hayme Anyhely;60909040;Psicología;Lab 06;Pabellon C;19/09/2025;20:00
+Cahua Mamani Alain Amilcar;60335223;Ingeniería Civil;Lab 07;Pabellon B;20/09/2025;21:00
+Jauja Coaquira Diana Milagros;60272365;Ingeniería de sistemas;Lab 08;Pabellon A;21/09/2025;20:00
+Mamani Estofanero Helbert Michael;70666216;Educación Física, recreación y deportes;Lab 09;Pabellon D;22/09/2025;14:00
+CCALLI COILA EMMA DANILA;76861245;Educación Primaria y Pedagogía Terapeútica;Lab 01;Pabellon G;23/09/2025;15:00
+Mamani Ochochoque Luz Mery;76846270;Educación inicial y Puericultura;Lab 02;Pabellon H;24/09/2025;16:00
+Condori Mamani Carlos daniel;77129831;Educación inicial y Puericultura;Lab 03;Pabellon I;25/09/2025;17:00
+VARGAS MAMANI ALISSON NIKOL;60230787;Contabilidad , Gestión tributaria y Aduanera;Lab 04;Pabellon J;26/09/2025;18:00
+BLANCO OVANO LINO MARCHELLO;60556025;Psicología;Lab 05;Pabellon A;27/09/2025;19:00
+Vilcanqui Chura Bethzy Vianey;60261969;Educación Física, recreación y deportes;Lab 06;Pabellon C;28/09/2025;20:00
+TURPO NUÑEZ JEISSON JEAMPIER;61254695;Educación Primaria y Pedagogía Terapeútica;Lab 07;Pabellon B;29/09/2025;21:00
+COLCA GUILLEN LOURDES ANDREA;61046943;Educación Física, recreación y deportes;Lab 08;Pabellon A;30/09/2025;20:00
+RAMOS QUISPE ANAHY SHIOMARA;60908822;Contabilidad , Gestión tributaria y Aduanera;Lab 09;Pabellon D;12/09/2025;14:00
+CALATAYUD PONCE NAYELY MILAGROS;60220547;Educación Primaria y Pedagogía Terapeútica;Lab 01;Pabellon G;13/09/2025;15:00
+CHOQUE CHURATA RONALD ALEXIS;73697312;Educación inicial y Puericultura;Lab 02;Pabellon H;14/09/2025;16:00
+TICONA PINEDA MADELEY;60353805;Educación inicial y Puericultura;Lab 03;Pabellon I;15/09/2025;17:00
+Arapa Quispe Judith Adelaida;61254596;Educación Primaria y Pedagogía Terapeútica;Lab 04;Pabellon J;16/09/2025;18:00
+POMA HANCCO RODRIGO JAVIER;60837200;Administración;Lab 05;Pabellon A;17/09/2025;19:00
+BACILIO GIL THATIANA MILAGROS;60925773;Educación Primaria y Pedagogía Terapeútica;Lab 06;Pabellon C;18/09/2025;20:00
+QUISPE CHAMBI YANNEL GLORIA;61320729;Administración;Lab 07;Pabellon B;19/09/2025;14:00
+MENDOZA MAMANI NANCY GISELA;61254952;Administración;Lab 08;Pabellon A;20/09/2025;15:00
+RAMOS SANTAMARIA ALEX YEISON;73713209;Educación inicial y Puericultura;Lab 09;Pabellon D;21/09/2025;16:00
+CHINO SUCAPUCA BRAYAN SHANDEL;61158612;Educación Primaria y Pedagogía Terapeútica;Lab 01;Pabellon G;22/09/2025;17:00
+CHANCASANAMPA TRINIDAD ANGIE JHANDIRA;61278781;Contabilidad , Gestión tributaria y Aduanera;Lab 02;Pabellon H;23/09/2025;18:00
+APAZA TICONA DANIEL EDUARDO;71574819;Educación inicial y Puericultura;Lab 03;Pabellon I;24/09/2025;19:00
+JAVIER TILA BRENDA DAYHANA;61000642;Administración;Lab 04;Pabellon A;25/09/2025;20:00
+CHAMBI CONDORI EDITH MILAGROS;60264100;Educación Primaria y Pedagogía Terapeútica;Lab 05;Pabellon D;26/09/2025;21:00
+Coaquira Idme Álvaro Ramiro;61254697;Educación inicial y Puericultura;Lab 06;Pabellon G;27/09/2025;20:00
+Pari Gutiérrez Carlos Andre;61255031;Contabilidad , Gestión tributaria y Aduanera;Lab 07;Pabellon H;28/09/2025;14:00
+APAZA MAYTA ANGIE LIZBETH;60068395;Educación inicial y Puericultura;Lab 08;Pabellon I;29/09/2025;15:00
+CHURA GUTIERREZ ROUSSE DANIELA;60836780;Educación Especialidad Inglés y Español;Lab 09;Pabellon J;30/09/2025;16:00
+APAZA YUJRA ALLISON ROUSS;61255646;Educación inicial y Puericultura;Lab 01;Pabellon A;12/09/2025;17:00
+CAPIA CARRIZALES JHOEL EDISSON;60836711;Educación inicial y Puericultura;Lab 02;Pabellon C;13/09/2025;18:00
+CALSIN PACOMPIA ANI LIZ;60765485;Educación inicial y Puericultura;Lab 03;Pabellon B;14/09/2025;14:00
+CAMA VILCA YUDITH DANITZA;60068373;Educación Especialidad Inglés y Español;Lab 04;Pabellon A;15/09/2025;15:00
+QUISPE LARICO WENDY;60068375;Ingeniería Civil;Lab 05;Pabellon D;16/09/2025;16:00
+VARGAS TITO ROCIO ZULEMA;60486471;Ingeniería Civil;Lab 06;Pabellon G;17/09/2025;17:00
+QUISPE AGUILAR KASSANDRA YAMILETH;75348577;Ingeniería Civil;Lab 07;Pabellon H;18/09/2025;18:00
+MACEDO YANA WILLIAN ERICK;77470869;Ingeniería Civil;Lab 08;Pabellon I;19/09/2025;19:00
+Yucra Arela Jhilmar David;60836661;Ingeniería de sistemas;Lab 09;Pabellon J;20/09/2025;20:00
+Mamani Rayme Jackie Elias;77908329;Ingeniería Civil;Lab 01;Pabellon A;21/09/2025;21:00
+Puma Gallegos Lady Isabel;60419519;Ingeniería Civil;Lab 02;Pabellon C;22/09/2025;20:00
+QUISPE TICONA SHEYLA INES;60606205;Ingeniería Civil;Lab 03;Pabellon B;23/09/2025;14:00
+AHUMADA HUAYNACHO JUDITH GRETY;60267306;Ingeniería Civil;Lab 04;Pabellon A;24/09/2025;15:00
+Vargas Mamani Roxana soledad;60486498;Contabilidad y Gestión tributaria y Aduanera - A DISTANCIA;Lab 05;Pabellon D;25/09/2025;16:00
+Condori Quilca Marily Zaira;71739859;Ingeniería Civil;Lab 06;Pabellon G;26/09/2025;17:00
+QUISPE HUARAYA ANTHONY FERNANDO;76840097;Ingeniería de sistemas;Lab 07;Pabellon H;27/09/2025;18:00
+MACEDO ANCONEIRA NOEMI ESTHER;75490121;Ingeniería de sistemas;Lab 08;Pabellon I;28/09/2025;19:00
+Quispe Janampa Jhefferson Albeyro;62528083;Ingeniería ambiental;Lab 09;Pabellon J;29/09/2025;20:00
+Vilca Delgado de la Flor Helen Mireya;71153546;Ingeniería de sistemas;Lab 01;Pabellon A;30/09/2025;21:00
+Pari Cahuapaza Fabiola Soleyka;60765429;Ingeniería Civil;Lab 02;Pabellon C;12/09/2025;20:00
+Apaza Tuyo Jakelyn Rosmery;74430395;Ingeniería Civil;Lab 03;Pabellon A;13/09/2025;14:00
+GONZALO GALLEGOS MISHELL GERALDINE;61254825;Educación Primaria y Pedagogía Terapeútica;Lab 04;Pabellon D;14/09/2025;15:00
+Yana Chino Jhon Franklin;60837070;Ingeniería Civil;Lab 05;Pabellon G;15/09/2025;16:00
+CHAYÑA PARICOTO MILAGROS LISSETH;60606195;Ingeniería de sistemas;Lab 06;Pabellon H;16/09/2025;17:00
+CONDORI MAMANI KARINA JHONMY;75741051;Ingeniería Civil;Lab 07;Pabellon I;17/09/2025;18:00
+QUISPE MERCADO LALO DARWIN;60460527;Ingeniería Civil;Lab 08;Pabellon J;18/09/2025;19:00
+SOTO HUMPIRI CAMILA JHEIMY;61320176;Ingeniería Civil;Lab 09;Pabellon A;19/09/2025;20:00
+RIVEROS ROSELLO DANNAF THALYA;61047043;Educación inicial y Puericultura;Lab 01;Pabellon C;20/09/2025;21:00
+Huaman Hancco Yasuri Yandire;61255294;Ingeniería Civil;Lab 02;Pabellon B;21/09/2025;20:00
+Castillo Huaraccallo Efrain Jefry;60067826;Ingeniería Civil;Lab 03;Pabellon A;22/09/2025;14:00
+Huarsocca Huarsocca Obed Michael;70900618;Ingeniería ambiental;Lab 04;Pabellon D;23/09/2025;15:00
+CCARITA CCARITA FRISAYDA;60523168;Arquitectura y Urbanismo;Lab 05;Pabellon G;24/09/2025;16:00
+APAZA MAMANI YACK ANTONI;60643756;Administración;Lab 06;Pabellon H;25/09/2025;17:00
+MACHACA APAZA GUADALUPE LIZBHET;61094230;Ingeniería de sistemas;Lab 07;Pabellon I;26/09/2025;18:00
+Vilca Huayta Esmeralda;60485638;Ingeniería de sistemas;Lab 08;Pabellon J;27/09/2025;14:00
+Ccarita Apaza Lady Judith;75238424;Enfermeria;Lab 09;Pabellon A;28/09/2025;15:00
+Riega Batallanos Arellys Muriel;61093268;Arquitectura y Urbanismo;Lab 01;Pabellon C;29/09/2025;16:00
+ALBARRACIN CAZASOLA ANYELY;61093543;Ingeniería Civil;Lab 02;Pabellon A;30/09/2025;17:00
+Condori Coaquira Ada Araceli;74175215;Psicología;Lab 03;Pabellon D;12/09/2025;18:00
+Choque Chura Liz Yaneth;60305320;Enfermeria;Lab 04;Pabellon G;13/09/2025;19:00
+QUISPE GONZALES RICHARD ARNOLD;60909706;Nutrición;Lab 05;Pabellon H;14/09/2025;20:00
+PACCO HUANCA EVELYN;75532805;Ingeniería Civil;Lab 06;Pabellon I;15/09/2025;21:00
+ALVAREZ MOYA WILTON ALEX;62121660;Administración;Lab 07;Pabellon J;16/09/2025;20:00
+CHAMBI CHOQUE NELSIGREYSS ELENA;60348609;Ingeniería Civil;Lab 08;Pabellon A;17/09/2025;14:00
+QUISPE MAYHUA ROY GERMAN;60501237;Ingeniería ambiental;Lab 09;Pabellon C;18/09/2025;15:00
+MAMANI DE LA CRUZ KENYI DAVID;60213567;Psicología;Lab 01;Pabellon B;19/09/2025;16:00
+QUISPE LOPEZ YHAMILEY YULISSA;76922350;Psicología;Lab 02;Pabellon A;20/09/2025;17:00
+CCALLO HINOJOSA JACK ANDY;60255869;Educación Primaria y Pedagogía Terapeútica;Lab 03;Pabellon D;21/09/2025;18:00
+APAZA QUISPE ANALY DEYCI;61617800;Nutrición;Lab 04;Pabellon G;22/09/2025;19:00
+RODRIGO WAYRA HAINM;76838502;Arquitectura y Urbanismo;Lab 05;Pabellon H;23/09/2025;20:00
+Leque Condori Edgar Jesus;73258661;Psicología;Lab 06;Pabellon I;24/09/2025;21:00
+CONDORI BEJAR ANYELY YASMIN;81249760;Psicología;Lab 07;Pabellon J;25/09/2025;20:00
+Cuenta Huahuacondori Luis Fernando;60557533;Ingeniería Civil;Lab 08;Pabellon A;26/09/2025;14:00
+Mamani Apaza Edwin Dilan;60470838;Contabilidad , Gestión tributaria y Aduanera;Lab 09;Pabellon C;27/09/2025;15:00
+TAPARA VELARDE YOSHELIN MARICIELO;61158914;Arquitectura y Urbanismo;Lab 01;Pabellon B;28/09/2025;16:00
+Vilca Vilca Lilian Mayra;62895122;Enfermeria;Lab 02;Pabellon A;29/09/2025;14:00
+Mamani Mayta Nayeli;60567768;Educación Especialidad Inglés y Español;Lab 03;Pabellon D;30/09/2025;15:00
+CALLA HUAMAN KAROL NIKOL;61094002;Enfermeria;Lab 04;Pabellon G;12/09/2025;16:00
+HUALLPA CHECMAPUCO NELIDA EUGENIA;77463831;Ingeniería Civil;Lab 05;Pabellon H;13/09/2025;17:00
+CHUQUIMAMANI UMIÑA JOSE FERNANDO;76723634;Psicología;Lab 06;Pabellon I;14/09/2025;18:00
+Larico Quispe Jersson Hugo;75022620;Psicología;Lab 07;Pabellon J;15/09/2025;19:00
+ALARCON RODRIGUEZ LUIS ANDRES;60908837;Enfermeria;Lab 08;Pabellon A;16/09/2025;20:00
+LIPA CONDORI EDSON;60491200;#N/A;Lab 09;Pabellon C;17/09/2025;21:00
+PAMPA CALCINA JHON LENIN;78041256;Educación Primaria y Pedagogía Terapeútica;Lab 01;Pabellon A;18/09/2025;20:00
+CONDORI CARRIZALES CRISTHIAN;73887106;Ingeniería Civil;Lab 02;Pabellon D;19/09/2025;14:00
+MAMANI BELLIDO ERIK YANDEL;61001163;Arquitectura y Urbanismo;Lab 03;Pabellon G;20/09/2025;15:00
+CARRIZALES CCARI RAMIRO ARON;60069419;Psicología;Lab 04;Pabellon A;21/09/2025;16:00
+MORALES PARI AKEMI ABIGAIL;60837322;Enfermeria;Lab 05;Pabellon D;22/09/2025;17:00
+QUISPE COSI EMELY MISHELL;61320456;Ingeniería Civil;Lab 06;Pabellon G;23/09/2025;18:00
+YANARICO QUISPE DIEGO ALEXANDER;60837126;Enfermeria;Lab 07;Pabellon H;24/09/2025;19:00
+QUISPE POMA ULSEN DELVIS;60394350;Enfermeria;Lab 08;Pabellon I;25/09/2025;20:00
+CACERES HUANCCO EMERSSON ALESSANDRO;60909665;Enfermeria;Lab 09;Pabellon J;26/09/2025;21:00
+VELARDE MANRIQUE OSCAR KENNETH;73148140;Educación Especialidad Inglés y Español;Lab 01;Pabellon A;27/09/2025;20:00
+LOPE MACEDO JEFERSON ALEXANDER;60504815;Psicología;Lab 02;Pabellon C;28/09/2025;14:00
+POMA QUISPE JHON AMILCAR;60491215;Psicología;Lab 03;Pabellon B;29/09/2025;15:00
+QUIÑONES SALAZAR JOSE MANUEL;72538150;Enfermeria;Lab 04;Pabellon A;30/09/2025;16:00
+CACERES CATACORA IVAN PIERO;60909700;Educación inicial y Puericultura;Lab 05;Pabellon D;12/09/2025;17:00
+CONDORI PARIZACA CARLOS DANIEL;71494687;Educación inicial y Puericultura;Lab 06;Pabellon G;13/09/2025;18:00
+Canaza Quispe Eber Jesus;60234137;Educación inicial y Puericultura;Lab 07;Pabellon H;14/09/2025;19:00
+Coaquira Ticona Lenin Euder;60556031;Educación inicial y Puericultura;Lab 08;Pabellon I;15/09/2025;20:00
+Surco Pampa Rossi Carolyn;60296206;Educación inicial y Puericultura;Lab 09;Pabellon J;16/09/2025;21:00
+Melo Silva Marlon Hamilcar;76471843;Educación inicial y Puericultura;Lab 01;Pabellon A;17/09/2025;20:00
+Humpiri Humalla Hadad Henry;73539052;Educación inicial y Puericultura;Lab 02;Pabellon A;18/09/2025;14:00
+Callo Sacaca Vilma;72689868;Educación inicial y Puericultura;Lab 03;Pabellon D;19/09/2025;15:00
+Condori Cari Dania rosa;75435257;Educación inicial y Puericultura;Lab 04;Pabellon G;20/09/2025;14:00
+TORRES ENRIQUEZ JHIRAN JAMILETH;60837457;Educación inicial y Puericultura;Lab 05;Pabellon H;21/09/2025;15:00
+MAMANI COACALLA ROBERTH EDILSON;60240389;Educación inicial y Puericultura;Lab 06;Pabellon I;22/09/2025;16:00
+TICONA CONDORI DENILSON JOSEPH;61000432;Educación inicial y Puericultura;Lab 07;Pabellon J;23/09/2025;17:00
+QUISPE ARAPA JADE METHALY;61000462;Educación inicial y Puericultura;Lab 08;Pabellon A;24/09/2025;18:00
+CALLA QUISPE FERNANDO JEREMY;63174405;Educación inicial y Puericultura;Lab 09;Pabellon C;25/09/2025;19:00
+Apaza Alferez Anderson;61000734;Educación inicial y Puericultura;Lab 01;Pabellon B;26/09/2025;20:00
+TURPO NUÑEZ JEISSON JEAMPIER;61254695;Educación inicial y Puericultura;Lab 02;Pabellon A;27/09/2025;21:00
+POMA HANCCO RODRIGO JAVIER;60837200;Educación inicial y Puericultura;Lab 03;Pabellon D;28/09/2025;20:00
+José Raúl Amanqui;71540313;Ing. Sistemas;Lab 01;Pabellon A;12/09/2025;14:00
+Cuno Vilca Nhick Jhonnir;73807517;Psicología;Lab 02;Pabellon D;13/09/2025;15:00
+Apaza Mamani Jenie Abigail;75884732;Enfermeria;Lab 03;Pabellon G;14/09/2025;16:00
+Mamani Cosi Yeferson Teves;75522992;Enfermeria;Lab 04;Pabellon H;15/09/2025;17:00
+Motte Urajahua Rohanguiel Edison;60228819;Psicología;Lab 05;Pabellon I;16/09/2025;18:00
+Añari Ticona Telesforo Jesus;76161950;Enfermeria;Lab 06;Pabellon J;17/09/2025;19:00
+PILA BASQUEZ YOFORSAY EDER;70809646;Enfermeria;Lab 07;Pabellon A;18/09/2025;20:00
+MAMANI CARRIZALES FLORCITA;77342066;Enfermeria;Lab 08;Pabellon C;19/09/2025;21:00
+Luque Condori Yamilet Milagros;75193262;Psicología;Lab 09;Pabellon B;20/09/2025;20:00
+AQUINO MAMANI YAKI MADELEIN;75797824;Psicología;Lab 01;Pabellon A;21/09/2025;14:00
+CAYRA JOVE NELSON WILFREDO;72884471;Psicología;Lab 02;Pabellon D;22/09/2025;15:00
+VELASQUEZ COLCA BEATRIZ;60069064;Enfermeria;Lab 03;Pabellon G;23/09/2025;16:00
+Espetia Nina Saray;74705707;Nutrición;Lab 04;Pabellon H;24/09/2025;17:00
+QUISPE CONDORI MILAGROS MADELEYNE;61193025;Enfermeria;Lab 05;Pabellon I;25/09/2025;18:00
+VIZA BELLIDO ANYELI YAMILETH;61001261;Enfermeria;Lab 06;Pabellon J;26/09/2025;19:00
+CHURA GALDOS RODRIGO ELOY;61320652;Enfermeria;Lab 07;Pabellon A;27/09/2025;20:00
+PAUCAR FLORES YHOSELIN;60850639;Enfermeria;Lab 08;Pabellon C;28/09/2025;21:00
+DE LA TORRE LATORRE KIARA ROSA;73393999;Psicología;Lab 09;Pabellon B;29/09/2025;20:00
+TIPO JACHO JHANDDY ANAY;60065619;Enfermeria;Lab 01;Pabellon A;30/09/2025;14:00
+Amanqui Ramos Luz Milagros;77538099;Enfermeria;Lab 02;Pabellon D;12/09/2025;15:00
+PINO PACCORI JHOANA DEL PILAR;61000985;Enfermeria;Lab 03;Pabellon G;13/09/2025;16:00
+CHALCO CONDORI LUIS FERNANDO;71568511;Enfermeria;Lab 04;Pabellon H;14/09/2025;17:00
+CHAMBI HUANCCO YOSEPH GRIMALDO;61254832;enfermeria;Lab 05;Pabellon I;15/09/2025;18:00
+CHURA QUISPE ÑOLL ERICK;73762257;Enfermeria;Lab 06;Pabellon J;16/09/2025;19:00
+Salas Perez Adriano Kaleb;77475464;Enfermeria;Lab 07;Pabellon A;17/09/2025;20:00
+LUQUE SORIA BRAD ARNOLD;74095608;Psicología;Lab 08;Pabellon C;18/09/2025;21:00
+QUISPE MAMANI ANAHI DANITZA;77378260;Psicología;Lab 09;Pabellon A;19/09/2025;20:00
+CHAMBI SALAS ZEYDA LISBET;75694332;Psicología;Lab 01;Pabellon D;20/09/2025;14:00
+VARGAS MAMANI CAMILA;60169907;Enfermeria;Lab 02;Pabellon G;21/09/2025;15:00
+QUISPE URRUTIA DANIELA ALIZEE;60983328;Enfermeria;Lab 03;Pabellon H;22/09/2025;16:00
+RAMIREZ MENOR GEINER ALEXANDER;73986718;Enfermeria;Lab 04;Pabellon I;23/09/2025;17:00
+MUSAJA TICONA LIZZET JOSSIE;75434740;Psicología;Lab 05;Pabellon J;24/09/2025;18:00
+MAMANI TAPARA RUTH RUBI;61047074;Enfermeria;Lab 06;Pabellon A;25/09/2025;19:00
+APAZA JACHO RUBEN YONATAN;74214332;Enfermeria;Lab 07;Pabellon C;26/09/2025;20:00
+Chipana Ñahuinlla Sarai Angheline;61091844;Enfermeria;Lab 08;Pabellon B;27/09/2025;21:00
+Colque Chacon kylla Annet;71189607;Psicología;Lab 09;Pabellon A;28/09/2025;20:00
+PINTADO VARGAS SANDI LISEHT;61806101;Enfermeria;Lab 01;Pabellon D;29/09/2025;14:00
+Onque Jallo Jamilet anyeles;71060227;Enfermeria;Lab 02;Pabellon G;30/09/2025;15:00
+CORDOVA TORREJON RAQUEL DEL PILAR;60510020;Enfermeria;Lab 03;Pabellon H;12/09/2025;16:00
+Arratia Soto Bill Aldair;73475809;Enfermeria;Lab 04;Pabellon I;13/09/2025;17:00
+CHARCA CHARCA SHEYLA EVELYN;60518497;Enfermeria;Lab 05;Pabellon J;14/09/2025;18:00
+Roque Chambi Edson Daniel;78550167;Psicología;Lab 06;Pabellon A;15/09/2025;14:00
+TICONA MAMANI JOSUE ALEXANDER VINCENZO;60940762;Enfermeria;Lab 07;Pabellon C;16/09/2025;15:00
+Yana Canaza Lesly Wendy;61158853;Psicología;Lab 08;Pabellon B;17/09/2025;16:00
+Labajos Pinedo Weysles;60030926;Psicología;Lab 09;Pabellon A;18/09/2025;17:00
+Charca Ramos Leydi Rayza;61159106;Psicología;Lab 01;Pabellon D;19/09/2025;18:00
+NINA RAMOS ADERLY;60292906;Psicología;Lab 02;Pabellon A;20/09/2025;19:00
+Paco Mamani Manuel Alejandro Illari;61094249;Nutrición;Lab 03;Pabellon D;21/09/2025;20:00
+PIZARRO TAFUR STALIN;60031596;Enfermeria;Lab 04;Pabellon G;22/09/2025;21:00
+PANCCA MIRANDA VICTOR ROBINHO;61094026;Psicología;Lab 05;Pabellon H;23/09/2025;20:00
+Chura Aruhuanca Israel Jaime;61152804;Psicología;Lab 06;Pabellon I;24/09/2025;14:00
+QUISOCALA RAMOS WILLIAM;61000428;Psicología;Lab 07;Pabellon J;25/09/2025;15:00
+CONDORI CRUZ JHON GILBER;73763972;Psicología;Lab 08;Pabellon A;26/09/2025;16:00
+Uturunco Zea Kenyer Rodrigo;61158689;Psicología;Lab 09;Pabellon C;27/09/2025;17:00
+Ticona Lipe Estefany Eliana;73298874;Enfermeria;Lab 01;Pabellon B;28/09/2025;18:00
+Calapuja Calcina KATERINE SHANTAL;60472286;Enfermeria;Lab 02;Pabellon A;29/09/2025;19:00
+DIAZ SANCHEZ JOSUE EDILBERTO;78372458;Enfermeria;Lab 03;Pabellon D;30/09/2025;20:00
+Gonzalo Apaza Anyely Fiorela;60836727;Psicología;Lab 04;Pabellon G;12/09/2025;21:00
+ASQUI LAYME EDY SANTIAGO;60837383;Enfermeria;Lab 05;Pabellon H;13/09/2025;20:00
+LEONARDO ENRIQUEZ RUBINHO JESUS;61090420;Enfermeria;Lab 06;Pabellon I;14/09/2025;14:00
+CONDORI QUISOCALA KEVIN JHEAMPOOL;77126506;Psicología;Lab 07;Pabellon J;15/09/2025;15:00
+Condori Cheje Yamilet Nicole;75476072;Psicología;Lab 08;Pabellon A;16/09/2025;14:00
+Canaza Vilca Luz Nayely;60067245;Ingeniería Civil;Lab 09;Pabellon C;17/09/2025;15:00
+YAPU YAPU LILIAN MARILU;60765159;Enfermeria;Lab 01;Pabellon B;18/09/2025;16:00
+CANAZA MAMANI CRISHLY MELANIA;60223793;Enfermeria;Lab 02;Pabellon A;19/09/2025;17:00
+PARICAHUA ZELA YEISON JOSSUE;76771532;Enfermeria;Lab 03;Pabellon D;20/09/2025;18:00
+Villca Mamani Willian brayhan;60195400;Ingeniería ambiental;Lab 04;Pabellon G;21/09/2025;19:00
+Bruna Quilla Andrea Mishel Analy;61320913;Psicología;Lab 05;Pabellon H;22/09/2025;20:00
+Puma Quispe Mishell Adela;61158679;Enfermeria;Lab 06;Pabellon I;23/09/2025;21:00
+MAMANI PILCO NEISSMY ENMENY;60224299;Psicología;Lab 07;Pabellon J;24/09/2025;20:00
+QUISPE YUCRA MAELY YESSENIA;60286414;Psicología;Lab 08;Pabellon A;25/09/2025;14:00
+CHURA CCACA ZAYURI YAMILE;61046991;Enfermeria;Lab 09;Pabellon C;26/09/2025;15:00
+VILCA LARICO CAMILA JAZMIN;71146558;Educación inicial y Puericultura;Lab 01;Pabellon A;27/09/2025;16:00
+Aro Coyla Edelmiro Josue;60538297;Psicología;Lab 02;Pabellon D;28/09/2025;17:00
+COAQUIRA NEYRA MILAGROS;61254689;Enfermeria;Lab 03;Pabellon A;29/09/2025;18:00
+Mamani Arapa Lizbeth;61093283;Ingeniería ambiental;Lab 04;Pabellon D;30/09/2025;19:00
+PAYEHUANCA OSNAYO JUDITH MIREYDY;61255527;Ingeniería Civil;Lab 05;Pabellon G;12/09/2025;20:00
+Mayta Vargas Yosep;60554039;Enfermeria;Lab 06;Pabellon H;13/09/2025;21:00
+CUTIPA BUSTINZA ANA MARIA;60758785;Psicología;Lab 07;Pabellon I;14/09/2025;20:00
+BELTRAN APAZA WILLIAMS EDUARDO;61001012;Educación Física, recreación y deportes;Lab 08;Pabellon J;15/09/2025;14:00
+RAMOS ARAPA MARILYN DANITZA;76587042;Ingeniería ambiental;Lab 09;Pabellon A;16/09/2025;15:00
+HUISA QUISPE YOSEP LENIN;60353828;Enfermeria;Lab 01;Pabellon C;17/09/2025;16:00
+HALLASI MANCHA MELANY WENDY;61320585;Arquitectura y Urbanismo;Lab 02;Pabellon B;18/09/2025;17:00
+CCORIMANYA TUPA LETSY;75758885;Educación Primaria y Pedagogía Terapeútica;Lab 03;Pabellon A;19/09/2025;18:00
+ZELA FRISANCHO GENYFER KEY;61001153;Enfermeria;Lab 04;Pabellon D;20/09/2025;19:00
+PACCO COTACALLAPA MARI LEIDY;60286951;Enfermeria;Lab 05;Pabellon G;21/09/2025;20:00
+LAURA QUISPE GRACE EMERY;71045940;Enfermeria;Lab 06;Pabellon H;22/09/2025;21:00
+PARICAHUA OJEDA YORD BRAYAN;75115296;Enfermeria;Lab 07;Pabellon I;23/09/2025;20:00
+MARIN MAMANI THALIA LUCERO;72308603;Psicología;Lab 08;Pabellon J;24/09/2025;14:00
+AYAMAMANI URDAY ADRIANA REYNA;76585310;Enfermeria;Lab 09;Pabellon A;25/09/2025;15:00
+CONDORI CALLA RUTH NELIDA;60067154;Enfermeria;Lab 01;Pabellon C;26/09/2025;16:00
+QUISPE PARI KELY ROXY;60178366;Psicología;Lab 02;Pabellon B;27/09/2025;17:00
+Cañazaca Choque Katerine Nadine;74179330;Psicología;Lab 03;Pabellon A;28/09/2025;18:00
+MAMANI BRADO DEYSSI JEMINA;60354367;Psicología;Lab 04;Pabellon D;29/09/2025;14:00
+Humpiri Mamani Yaquelin Milagros;60224707;Psicología;Lab 05;Pabellon A;30/09/2025;15:00
+Quispe Villazante Exon omar;60248317;Psicología;Lab 06;Pabellon D;12/09/2025;16:00
+RAMIREZ LUQUE ROY GUINNER;60204089;Enfermeria;Lab 07;Pabellon G;13/09/2025;17:00
+CALCINA SANCA ELIZABET;60589390;Enfermeria;Lab 08;Pabellon H;14/09/2025;18:00
+VELEZ PARICAHUA SWEN ERICSSON;61254864;Enfermeria;Lab 09;Pabellon I;15/09/2025;19:00
+PACORI YANA LUZ DELIA;77534355;Enfermeria;Lab 01;Pabellon J;16/09/2025;20:00
+MONTENEGRO ZAPANA DIANA MILAGROS;61254511;Enfermeria;Lab 02;Pabellon A;17/09/2025;21:00
+CONDORI CANAZA RONY FELICIANO;73741691;Enfermeria;Lab 03;Pabellon C;18/09/2025;20:00
+MAMANI VILCA EVELYN;60909598;Psicología;Lab 04;Pabellon B;19/09/2025;14:00
+MONTES AGUIRRE GIUSEPI YASIR DEL PIERO;74642996;Enfermeria;Lab 05;Pabellon A;20/09/2025;15:00
+Arosquipa Quispe Crysthian Brandon;74229003;Administración;Lab 06;Pabellon D;21/09/2025;16:00
+PALACO PARIAPAZA GREINS CAMILA;76471532;Enfermeria;Lab 07;Pabellon G;22/09/2025;17:00
+VILCA ZAPANA LUDY;72047802;Ingeniería Civil;Lab 08;Pabellon H;23/09/2025;18:00
+APAZA CONDORI REINER ELIO;61000772;Enfermeria;Lab 09;Pabellon I;24/09/2025;19:00
+RAMOS PARI ANHELY FIORELA;60234139;Psicología;Lab 01;Pabellon J;25/09/2025;20:00
+Quispe Rojas Fiorella;74659100;Ingeniería Civil;Lab 02;Pabellon A;26/09/2025;21:00
+MAMANI QUISPE MILAGROS GABY;60282318;Psicología;Lab 03;Pabellon C;27/09/2025;20:00
+YANAPA FLORES CRISTHIAN ABEL;60523180;Psicología;Lab 04;Pabellon A;28/09/2025;14:00
+TORRES QUISPE YAZMIN XIMENA;61093897;Ingeniería de sistemas;Lab 05;Pabellon D;29/09/2025;15:00
+CAYRA CHIPANA EMERY LINDA;60260799;Psicología;Lab 06;Pabellon G;30/09/2025;16:00
+CONDORI CHIARA CARLOS DANIEL;75237042;Psicología;Lab 07;Pabellon H;12/09/2025;17:00
+BENDITA QUEQUEJANA JHIMMY ANTHONY;61255218;Enfermeria;Lab 08;Pabellon I;13/09/2025;18:00
+QUILLA SABEDRA YAACK RONAL;60069374;Enfermeria;Lab 09;Pabellon J;14/09/2025;19:00
+CONDORI HANCCO DIANA YESENIA;73361486;Enfermeria;Lab 01;Pabellon A;15/09/2025;20:00
+Rodriguez Tupa Giuseppe Verdi;76980419;Enfermeria;Lab 02;Pabellon C;16/09/2025;21:00
+SANCHEZ MAMANI LILIANA ELIZABETH;72781332;Ingeniería Civil;Lab 03;Pabellon B;17/09/2025;20:00
+TOQUE YANAPA ROSSY ANAYELY;60256517;Enfermeria;Lab 04;Pabellon A;18/09/2025;14:00
+RIVERA NAVARRO KIYARA FANY;60272373;Administración;Lab 05;Pabellon D;19/09/2025;15:00
+QUISPE LIVISE MARYORI;71864730;Enfermeria;Lab 06;Pabellon G;20/09/2025;16:00
+HUAMAN MAMANI LEYDI PILAR;61046940;Educación inicial y Puericultura;Lab 07;Pabellon H;21/09/2025;17:00
+CANAZA APAZA KAREN ANGELICA;60256521;Enfermeria;Lab 08;Pabellon A;22/09/2025;18:00
+QUISPE APAZA ROSIO VANESA;61399896;Psicología;Lab 09;Pabellon D;23/09/2025;19:00
+QUISPE GRAJEDA JOHAN FABRICIO;72493704;Enfermeria;Lab 01;Pabellon G;24/09/2025;20:00
+ITO PELINCO JUDITH NATALY;60179713;Ingeniería ambiental;Lab 02;Pabellon H;25/09/2025;21:00
+CHAVEZ APAZA SADITH YOSELYN;61046872;Enfermeria;Lab 03;Pabellon I;26/09/2025;20:00
+FASABI SAUCEDO MACIELY NICOLE;60831938;Ingeniería Civil;Lab 04;Pabellon J;27/09/2025;14:00
+ZARATE TAPARA ROSSY ROSARIO;60303084;Psicología;Lab 05;Pabellon A;28/09/2025;15:00
+CANO PACORI MIGUEL ANGEL;60837446;Enfermeria;Lab 06;Pabellon C;29/09/2025;16:00
+Viza Echama Gisela Keiko;77505335;Enfermeria;Lab 07;Pabellon B;30/09/2025;17:00
+PACOMPIA PANCCA ALEX LIZANDRO;62101714;Psicología;Lab 08;Pabellon A;12/09/2025;18:00
+Quispe zapana Luz Brenda;61158632;Enfermeria;Lab 09;Pabellon D;13/09/2025;14:00
+VARGAS MENA KAREN LIZETH;73576053;Ingeniería Civil;Lab 01;Pabellon G;14/09/2025;15:00
+ZUÑIGA PARI MARIANELA;61093390;Psicología;Lab 02;Pabellon H;15/09/2025;16:00
+Garate Condori Liz Nayali;77689958;Psicología;Lab 03;Pabellon I;16/09/2025;17:00
+Lopez Naira Sheyla Melani;60208580;Educación Física, recreación y deportes;Lab 04;Pabellon J;17/09/2025;18:00
+MAMANI SONCCO JHIMI MEXTRIX;60231598;Psicología;Lab 05;Pabellon A;18/09/2025;19:00
+Quispe Vilca Hayme Anyhely;60909040;Psicología;Lab 06;Pabellon C;19/09/2025;20:00
+Cahua Mamani Alain Amilcar;60335223;Ingeniería Civil;Lab 07;Pabellon B;20/09/2025;21:00
+Jauja Coaquira Diana Milagros;60272365;Ingeniería de sistemas;Lab 08;Pabellon A;21/09/2025;20:00
+Mamani Estofanero Helbert Michael;70666216;Educación Física, recreación y deportes;Lab 09;Pabellon D;22/09/2025;14:00
+CCALLI COILA EMMA DANILA;76861245;Educación Primaria y Pedagogía Terapeútica;Lab 01;Pabellon G;23/09/2025;15:00
+Mamani Ochochoque Luz Mery;76846270;Educación inicial y Puericultura;Lab 02;Pabellon H;24/09/2025;16:00
+Condori Mamani Carlos daniel;77129831;Educación inicial y Puericultura;Lab 03;Pabellon I;25/09/2025;17:00
+VARGAS MAMANI ALISSON NIKOL;60230787;Contabilidad , Gestión tributaria y Aduanera;Lab 04;Pabellon J;26/09/2025;18:00
+BLANCO OVANO LINO MARCHELLO;60556025;Psicología;Lab 05;Pabellon A;27/09/2025;19:00
+Vilcanqui Chura Bethzy Vianey;60261969;Educación Física, recreación y deportes;Lab 06;Pabellon C;28/09/2025;20:00
+TURPO NUÑEZ JEISSON JEAMPIER;61254695;Educación Primaria y Pedagogía Terapeútica;Lab 07;Pabellon B;29/09/2025;21:00
+COLCA GUILLEN LOURDES ANDREA;61046943;Educación Física, recreación y deportes;Lab 08;Pabellon A;30/09/2025;20:00
+RAMOS QUISPE ANAHY SHIOMARA;60908822;Contabilidad , Gestión tributaria y Aduanera;Lab 09;Pabellon D;12/09/2025;14:00
+CALATAYUD PONCE NAYELY MILAGROS;60220547;Educación Primaria y Pedagogía Terapeútica;Lab 01;Pabellon G;13/09/2025;15:00
+CHOQUE CHURATA RONALD ALEXIS;73697312;Educación inicial y Puericultura;Lab 02;Pabellon H;14/09/2025;16:00
+TICONA PINEDA MADELEY;60353805;Educación inicial y Puericultura;Lab 03;Pabellon I;15/09/2025;17:00
+Arapa Quispe Judith Adelaida;61254596;Educación Primaria y Pedagogía Terapeútica;Lab 04;Pabellon J;16/09/2025;18:00
+POMA HANCCO RODRIGO JAVIER;60837200;Administración;Lab 05;Pabellon A;17/09/2025;19:00
+BACILIO GIL THATIANA MILAGROS;60925773;Educación Primaria y Pedagogía Terapeútica;Lab 06;Pabellon C;18/09/2025;20:00
+QUISPE CHAMBI YANNEL GLORIA;61320729;Administración;Lab 07;Pabellon B;19/09/2025;14:00
+MENDOZA MAMANI NANCY GISELA;61254952;Administración;Lab 08;Pabellon A;20/09/2025;15:00
+RAMOS SANTAMARIA ALEX YEISON;73713209;Educación inicial y Puericultura;Lab 09;Pabellon D;21/09/2025;16:00
+CHINO SUCAPUCA BRAYAN SHANDEL;61158612;Educación Primaria y Pedagogía Terapeútica;Lab 01;Pabellon G;22/09/2025;17:00
+CHANCASANAMPA TRINIDAD ANGIE JHANDIRA;61278781;Contabilidad , Gestión tributaria y Aduanera;Lab 02;Pabellon H;23/09/2025;18:00
+APAZA TICONA DANIEL EDUARDO;71574819;Educación inicial y Puericultura;Lab 03;Pabellon I;24/09/2025;19:00
+JAVIER TILA BRENDA DAYHANA;61000642;Administración;Lab 04;Pabellon A;25/09/2025;20:00
+CHAMBI CONDORI EDITH MILAGROS;60264100;Educación Primaria y Pedagogía Terapeútica;Lab 05;Pabellon D;26/09/2025;21:00
+Coaquira Idme Álvaro Ramiro;61254697;Educación inicial y Puericultura;Lab 06;Pabellon G;27/09/2025;20:00
+Pari Gutiérrez Carlos Andre;61255031;Contabilidad , Gestión tributaria y Aduanera;Lab 07;Pabellon H;28/09/2025;14:00
+APAZA MAYTA ANGIE LIZBETH;60068395;Educación inicial y Puericultura;Lab 08;Pabellon I;29/09/2025;15:00
+CHURA GUTIERREZ ROUSSE DANIELA;60836780;Educación Especialidad Inglés y Español;Lab 09;Pabellon J;30/09/2025;16:00
+APAZA YUJRA ALLISON ROUSS;61255646;Educación inicial y Puericultura;Lab 01;Pabellon A;12/09/2025;17:00
+CAPIA CARRIZALES JHOEL EDISSON;60836711;Educación inicial y Puericultura;Lab 02;Pabellon C;13/09/2025;18:00
+CALSIN PACOMPIA ANI LIZ;60765485;Educación inicial y Puericultura;Lab 03;Pabellon B;14/09/2025;14:00
+CAMA VILCA YUDITH DANITZA;60068373;Educación Especialidad Inglés y Español;Lab 04;Pabellon A;15/09/2025;15:00
+QUISPE LARICO WENDY;60068375;Ingeniería Civil;Lab 05;Pabellon D;16/09/2025;16:00
+VARGAS TITO ROCIO ZULEMA;60486471;Ingeniería Civil;Lab 06;Pabellon G;17/09/2025;17:00
+QUISPE AGUILAR KASSANDRA YAMILETH;75348577;Ingeniería Civil;Lab 07;Pabellon H;18/09/2025;18:00
+MACEDO YANA WILLIAN ERICK;77470869;Ingeniería Civil;Lab 08;Pabellon I;19/09/2025;19:00
+Yucra Arela Jhilmar David;60836661;Ingeniería de sistemas;Lab 09;Pabellon J;20/09/2025;20:00
+Mamani Rayme Jackie Elias;77908329;Ingeniería Civil;Lab 01;Pabellon A;21/09/2025;21:00
+Puma Gallegos Lady Isabel;60419519;Ingeniería Civil;Lab 02;Pabellon C;22/09/2025;20:00
+QUISPE TICONA SHEYLA INES;60606205;Ingeniería Civil;Lab 03;Pabellon B;23/09/2025;14:00
+AHUMADA HUAYNACHO JUDITH GRETY;60267306;Ingeniería Civil;Lab 04;Pabellon A;24/09/2025;15:00
+Vargas Mamani Roxana soledad;60486498;Contabilidad y Gestión tributaria y Aduanera - A DISTANCIA;Lab 05;Pabellon D;25/09/2025;16:00
+Condori Quilca Marily Zaira;71739859;Ingeniería Civil;Lab 06;Pabellon G;26/09/2025;17:00
+QUISPE HUARAYA ANTHONY FERNANDO;76840097;Ingeniería de sistemas;Lab 07;Pabellon H;27/09/2025;18:00
+MACEDO ANCONEIRA NOEMI ESTHER;75490121;Ingeniería de sistemas;Lab 08;Pabellon I;28/09/2025;19:00
+Quispe Janampa Jhefferson Albeyro;62528083;Ingeniería ambiental;Lab 09;Pabellon J;29/09/2025;20:00
+Vilca Delgado de la Flor Helen Mireya;71153546;Ingeniería de sistemas;Lab 01;Pabellon A;30/09/2025;21:00
+Pari Cahuapaza Fabiola Soleyka;60765429;Ingeniería Civil;Lab 02;Pabellon C;12/09/2025;20:00
+Apaza Tuyo Jakelyn Rosmery;74430395;Ingeniería Civil;Lab 03;Pabellon A;13/09/2025;14:00
+GONZALO GALLEGOS MISHELL GERALDINE;61254825;Educación Primaria y Pedagogía Terapeútica;Lab 04;Pabellon D;14/09/2025;15:00
+Yana Chino Jhon Franklin;60837070;Ingeniería Civil;Lab 05;Pabellon G;15/09/2025;16:00
+CHAYÑA PARICOTO MILAGROS LISSETH;60606195;Ingeniería de sistemas;Lab 06;Pabellon H;16/09/2025;17:00
+CONDORI MAMANI KARINA JHONMY;75741051;Ingeniería Civil;Lab 07;Pabellon I;17/09/2025;18:00
+QUISPE MERCADO LALO DARWIN;60460527;Ingeniería Civil;Lab 08;Pabellon J;18/09/2025;19:00
+SOTO HUMPIRI CAMILA JHEIMY;61320176;Ingeniería Civil;Lab 09;Pabellon A;19/09/2025;20:00
+RIVEROS ROSELLO DANNAF THALYA;61047043;Educación inicial y Puericultura;Lab 01;Pabellon C;20/09/2025;21:00
+Huaman Hancco Yasuri Yandire;61255294;Ingeniería Civil;Lab 02;Pabellon B;21/09/2025;20:00
+Castillo Huaraccallo Efrain Jefry;60067826;Ingeniería Civil;Lab 03;Pabellon A;22/09/2025;14:00
+Huarsocca Huarsocca Obed Michael;70900618;Ingeniería ambiental;Lab 04;Pabellon D;23/09/2025;15:00
+CCARITA CCARITA FRISAYDA;60523168;Arquitectura y Urbanismo;Lab 05;Pabellon G;24/09/2025;16:00
+APAZA MAMANI YACK ANTONI;60643756;Administración;Lab 06;Pabellon H;25/09/2025;17:00
+MACHACA APAZA GUADALUPE LIZBHET;61094230;Ingeniería de sistemas;Lab 07;Pabellon I;26/09/2025;18:00
+Vilca Huayta Esmeralda;60485638;Ingeniería de sistemas;Lab 08;Pabellon J;27/09/2025;14:00
+Ccarita Apaza Lady Judith;75238424;Enfermeria;Lab 09;Pabellon A;28/09/2025;15:00
+Riega Batallanos Arellys Muriel;61093268;Arquitectura y Urbanismo;Lab 01;Pabellon C;29/09/2025;16:00
+ALBARRACIN CAZASOLA ANYELY;61093543;Ingeniería Civil;Lab 02;Pabellon A;30/09/2025;17:00
+Condori Coaquira Ada Araceli;74175215;Psicología;Lab 03;Pabellon D;12/09/2025;18:00
+Choque Chura Liz Yaneth;60305320;Enfermeria;Lab 04;Pabellon G;13/09/2025;19:00
+QUISPE GONZALES RICHARD ARNOLD;60909706;Nutrición;Lab 05;Pabellon H;14/09/2025;20:00
+PACCO HUANCA EVELYN;75532805;Ingeniería Civil;Lab 06;Pabellon I;15/09/2025;21:00
+ALVAREZ MOYA WILTON ALEX;62121660;Administración;Lab 07;Pabellon J;16/09/2025;20:00
+CHAMBI CHOQUE NELSIGREYSS ELENA;60348609;Ingeniería Civil;Lab 08;Pabellon A;17/09/2025;14:00
+QUISPE MAYHUA ROY GERMAN;60501237;Ingeniería ambiental;Lab 09;Pabellon C;18/09/2025;15:00
+MAMANI DE LA CRUZ KENYI DAVID;60213567;Psicología;Lab 01;Pabellon B;19/09/2025;16:00
+QUISPE LOPEZ YHAMILEY YULISSA;76922350;Psicología;Lab 02;Pabellon A;20/09/2025;17:00
+CCALLO HINOJOSA JACK ANDY;60255869;Educación Primaria y Pedagogía Terapeútica;Lab 03;Pabellon D;21/09/2025;18:00
+APAZA QUISPE ANALY DEYCI;61617800;Nutrición;Lab 04;Pabellon G;22/09/2025;19:00
+RODRIGO WAYRA HAINM;76838502;Arquitectura y Urbanismo;Lab 05;Pabellon H;23/09/2025;20:00
+Leque Condori Edgar Jesus;73258661;Psicología;Lab 06;Pabellon I;24/09/2025;21:00
+CONDORI BEJAR ANYELY YASMIN;81249760;Psicología;Lab 07;Pabellon J;25/09/2025;20:00
+Cuenta Huahuacondori Luis Fernando;60557533;Ingeniería Civil;Lab 08;Pabellon A;26/09/2025;14:00
+Mamani Apaza Edwin Dilan;60470838;Contabilidad , Gestión tributaria y Aduanera;Lab 09;Pabellon C;27/09/2025;15:00
+TAPARA VELARDE YOSHELIN MARICIELO;61158914;Arquitectura y Urbanismo;Lab 01;Pabellon B;28/09/2025;16:00
+Vilca Vilca Lilian Mayra;62895122;Enfermeria;Lab 02;Pabellon A;29/09/2025;14:00
+Mamani Mayta Nayeli;60567768;Educación Especialidad Inglés y Español;Lab 03;Pabellon D;30/09/2025;15:00
+CALLA HUAMAN KAROL NIKOL;61094002;Enfermeria;Lab 04;Pabellon G;12/09/2025;16:00
+HUALLPA CHECMAPUCO NELIDA EUGENIA;77463831;Ingeniería Civil;Lab 05;Pabellon H;13/09/2025;17:00
+CHUQUIMAMANI UMIÑA JOSE FERNANDO;76723634;Psicología;Lab 06;Pabellon I;14/09/2025;18:00
+Larico Quispe Jersson Hugo;75022620;Psicología;Lab 07;Pabellon J;15/09/2025;19:00
+ALARCON RODRIGUEZ LUIS ANDRES;60908837;Enfermeria;Lab 08;Pabellon A;16/09/2025;20:00
+LIPA CONDORI EDSON;60491200;#N/A;Lab 09;Pabellon C;17/09/2025;21:00
+PAMPA CALCINA JHON LENIN;78041256;Educación Primaria y Pedagogía Terapeútica;Lab 01;Pabellon A;18/09/2025;20:00
+CONDORI CARRIZALES CRISTHIAN;73887106;Ingeniería Civil;Lab 02;Pabellon D;19/09/2025;14:00
+MAMANI BELLIDO ERIK YANDEL;61001163;Arquitectura y Urbanismo;Lab 03;Pabellon G;20/09/2025;15:00
+CARRIZALES CCARI RAMIRO ARON;60069419;Psicología;Lab 04;Pabellon A;21/09/2025;16:00
+MORALES PARI AKEMI ABIGAIL;60837322;Enfermeria;Lab 05;Pabellon D;22/09/2025;17:00
+QUISPE COSI EMELY MISHELL;61320456;Ingeniería Civil;Lab 06;Pabellon G;23/09/2025;18:00
+YANARICO QUISPE DIEGO ALEXANDER;60837126;Enfermeria;Lab 07;Pabellon H;24/09/2025;19:00
+QUISPE POMA ULSEN DELVIS;60394350;Enfermeria;Lab 08;Pabellon I;25/09/2025;20:00
+CACERES HUANCCO EMERSSON ALESSANDRO;60909665;Enfermeria;Lab 09;Pabellon J;26/09/2025;21:00
+VELARDE MANRIQUE OSCAR KENNETH;73148140;Educación Especialidad Inglés y Español;Lab 01;Pabellon A;27/09/2025;20:00
+LOPE MACEDO JEFERSON ALEXANDER;60504815;Psicología;Lab 02;Pabellon C;28/09/2025;14:00
+POMA QUISPE JHON AMILCAR;60491215;Psicología;Lab 03;Pabellon B;29/09/2025;15:00
+QUIÑONES SALAZAR JOSE MANUEL;72538150;Enfermeria;Lab 04;Pabellon A;30/09/2025;16:00
+CACERES CATACORA IVAN PIERO;60909700;Educación inicial y Puericultura;Lab 05;Pabellon D;12/09/2025;17:00
+CONDORI PARIZACA CARLOS DANIEL;71494687;Educación inicial y Puericultura;Lab 06;Pabellon G;13/09/2025;18:00
+Canaza Quispe Eber Jesus;60234137;Educación inicial y Puericultura;Lab 07;Pabellon H;14/09/2025;19:00
+Coaquira Ticona Lenin Euder;60556031;Educación inicial y Puericultura;Lab 08;Pabellon I;15/09/2025;20:00
+Surco Pampa Rossi Carolyn;60296206;Educación inicial y Puericultura;Lab 09;Pabellon J;16/09/2025;21:00
+Melo Silva Marlon Hamilcar;76471843;Educación inicial y Puericultura;Lab 01;Pabellon A;17/09/2025;20:00
+Humpiri Humalla Hadad Henry;73539052;Educación inicial y Puericultura;Lab 02;Pabellon A;18/09/2025;14:00
+Callo Sacaca Vilma;72689868;Educación inicial y Puericultura;Lab 03;Pabellon D;19/09/2025;15:00
+Condori Cari Dania rosa;75435257;Educación inicial y Puericultura;Lab 04;Pabellon G;20/09/2025;14:00
+TORRES ENRIQUEZ JHIRAN JAMILETH;60837457;Educación inicial y Puericultura;Lab 05;Pabellon H;21/09/2025;15:00
+MAMANI COACALLA ROBERTH EDILSON;60240389;Educación inicial y Puericultura;Lab 06;Pabellon I;22/09/2025;16:00
+TICONA CONDORI DENILSON JOSEPH;61000432;Educación inicial y Puericultura;Lab 07;Pabellon J;23/09/2025;17:00
+QUISPE ARAPA JADE METHALY;61000462;Educación inicial y Puericultura;Lab 08;Pabellon A;24/09/2025;18:00
+CALLA QUISPE FERNANDO JEREMY;63174405;Educación inicial y Puericultura;Lab 09;Pabellon C;25/09/2025;19:00
+Apaza Alferez Anderson;61000734;Educación inicial y Puericultura;Lab 01;Pabellon B;26/09/2025;20:00
+TURPO NUÑEZ JEISSON JEAMPIER;61254695;Educación inicial y Puericultura;Lab 02;Pabellon A;27/09/2025;21:00
+POMA HANCCO RODRIGO JAVIER;60837200;Educación inicial y Puericultura;Lab 03;Pabellon D;28/09/2025;20:00
